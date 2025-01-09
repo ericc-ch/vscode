@@ -1,0 +1,35 @@
+{
+  "recommendations": [
+    // Language Support
+    "astro-build.astro-vscode",
+    "bradlc.vscode-tailwindcss",
+    "denoland.vscode-deno",
+    "geequlim.godot-tools",
+    "ms-azuretools.vscode-docker",
+    "mikestead.dotenv",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml",
+    "rust-lang.rust-analyzer",
+    "svelte.svelte-vscode",
+    "tamasfe.even-better-toml",
+    "Vue.volar",
+    // Code Formatting and Linting
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "foxundermoon.shell-format",
+    // Enhancements
+    "aaron-bond.better-comments",
+    "christian-kohler.path-intellisense",
+    "Codeium.codeium",
+    "oderwat.indent-rainbow",
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "YoavBls.pretty-ts-errors",
+    // Git and Version Control
+    "eamodio.gitlens",
+
+    // Other
+    "bmalehorn.vscode-fish",
+    "saoudrizwan.claude-dev"
+  ]
+}
