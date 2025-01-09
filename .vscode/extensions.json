@@ -13,10 +13,12 @@
     "svelte.svelte-vscode",
     "tamasfe.even-better-toml",
     "Vue.volar",
+
     // Code Formatting and Linting
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "foxundermoon.shell-format",
+
     // Enhancements
     "aaron-bond.better-comments",
     "christian-kohler.path-intellisense",
@@ -25,6 +27,7 @@
     "streetsidesoftware.code-spell-checker",
     "usernamehw.errorlens",
     "YoavBls.pretty-ts-errors",
+
     // Git and Version Control
     "eamodio.gitlens",
 
