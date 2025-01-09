@@ -1,0 +1,24 @@
+{
+  // Editor appearance and behavior
+  "editor.fontFamily": "'JetBrains Mono', 'monospace', monospace",
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.renderWhitespace": "all",
+  "editor.minimap.renderCharacters": false,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": "explicit",
+  "editor.suggest.preview": true,
+
+  // TypeScript preferences
+  "typescript.preferences.includePackageJsonAutoImports": "on",
+
+  // Accessibility features
+  "accessibility.underlineLinks": true,
+
+  // Codeium settings
+  "codeium.enableSearch": true,
+
+  // Misc
+  "svelte.enable-ts-plugin": true
+}
