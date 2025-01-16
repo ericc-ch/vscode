@@ -33,6 +33,7 @@
 
     // Other
     "bmalehorn.vscode-fish",
-    "saoudrizwan.claude-dev"
+    "vitest.explorer",
+    "oven.bun-vscode"
   ]
 }
