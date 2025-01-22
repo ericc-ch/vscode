@@ -2,9 +2,11 @@
   "recommendations": [
     // Language Support
     "astro-build.astro-vscode",
+    "bmalehorn.vscode-fish",
     "bradlc.vscode-tailwindcss",
     "denoland.vscode-deno",
     "geequlim.godot-tools",
+    "golang.go",
     "ms-azuretools.vscode-docker",
     "mikestead.dotenv",
     "redhat.vscode-xml",
@@ -32,7 +34,6 @@
     "eamodio.gitlens",
 
     // Other
-    "bmalehorn.vscode-fish",
     "vitest.explorer",
     "oven.bun-vscode"
   ]
