@@ -6,8 +6,6 @@
   "editor.detectIndentation": false,
   "editor.renderWhitespace": "all",
   "editor.minimap.renderCharacters": false,
-  "editor.cursorBlinking": "phase",
-  "editor.cursorSmoothCaretAnimation": "explicit",
   "editor.suggest.preview": true,
 
   // TypeScript preferences
@@ -18,7 +16,65 @@
 
   // Codeium settings
   "codeium.enableSearch": true,
+  "codeium.enableCodeLens": false,
+  "codeium.enableExplainProblem": false,
 
   // Misc
-  "svelte.enable-ts-plugin": true
+  "svelte.enable-ts-plugin": true,
+  "gitlens.telemetry.enabled": false,
+
+  // Formatter
+  // JavaScript
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  // HTML
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  // CSS
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  // Go
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
+
+  // Rust
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer"
+  },
+
+  // Shell
+  "[ignore]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[fish]": {
+    "editor.defaultFormatter": "bmalehorn.vscode-fish"
+  },
+  "[dotenv]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  }
 }

@@ -9,6 +9,8 @@
     "golang.go",
     "ms-azuretools.vscode-docker",
     "mikestead.dotenv",
+    "ms-python.python",
+    "ms-pyright.pyright",
     "redhat.vscode-xml",
     "redhat.vscode-yaml",
     "rust-lang.rust-analyzer",
@@ -25,16 +27,15 @@
     "aaron-bond.better-comments",
     "christian-kohler.path-intellisense",
     "Codeium.codeium",
+    "ms-vscode.references-view",
     "oderwat.indent-rainbow",
     "streetsidesoftware.code-spell-checker",
     "usernamehw.errorlens",
     "YoavBls.pretty-ts-errors",
 
-    // Git and Version Control
-    "eamodio.gitlens",
-
     // Other
-    "vitest.explorer",
-    "oven.bun-vscode"
+    "eamodio.gitlens",
+    "oven.bun-vscode",
+    "vitest.explorer"
   ]
 }
