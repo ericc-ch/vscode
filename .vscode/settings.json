@@ -27,12 +27,6 @@
   "diffEditor.experimental.showMoves": true,
   "diffEditor.renderSideBySide": true,
 
-  // Misc
-  "svelte.enable-ts-plugin": true,
-  "extensions.experimental.affinity": {
-    "asvetliakov.vscode-neovim": 0
-  },
-
   // Formatter
   // Prettier
   "[html]": {
