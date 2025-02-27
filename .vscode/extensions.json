@@ -36,7 +36,6 @@
     // Other
     "eamodio.gitlens",
     "oven.bun-vscode",
-    "vitest.explorer",
-    "asvetliakov.vscode-neovim"
+    "vitest.explorer"
   ]
 }
