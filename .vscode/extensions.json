@@ -1,5 +1,9 @@
 {
   "recommendations": [
+    // Theme
+    "zhuangtongfa.material-theme",
+    "catppuccin.catppuccin-vsc-pack",
+
     // Language Support
     "astro-build.astro-vscode",
     "bmalehorn.vscode-fish",
@@ -14,6 +18,7 @@
     "redhat.vscode-xml",
     "redhat.vscode-yaml",
     "rust-lang.rust-analyzer",
+    "slevesque.shader",
     "svelte.svelte-vscode",
     "tamasfe.even-better-toml",
     "Vue.volar",
