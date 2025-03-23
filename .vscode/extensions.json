@@ -1,6 +1,7 @@
 {
   "recommendations": [
     // Theme
+    "jdinhlife.gruvbox",
     "zhuangtongfa.material-theme",
     "catppuccin.catppuccin-vsc-pack",
 
@@ -41,6 +42,7 @@
     // Other
     "eamodio.gitlens",
     "oven.bun-vscode",
-    "vitest.explorer"
+    "vitest.explorer",
+    "EditorConfig.EditorConfig"
   ]
 }
