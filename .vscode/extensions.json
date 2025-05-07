@@ -12,10 +12,11 @@
     "denoland.vscode-deno",
     "geequlim.godot-tools",
     "golang.go",
-    "ms-azuretools.vscode-docker",
     "mikestead.dotenv",
+    "ms-azuretools.vscode-docker",
     "ms-python.python",
     "ms-pyright.pyright",
+    "Nuxtr.nuxt-vscode-extentions",
     "redhat.vscode-xml",
     "redhat.vscode-yaml",
     "runem.lit-plugin",
@@ -23,13 +24,12 @@
     "slevesque.shader",
     "svelte.svelte-vscode",
     "tamasfe.even-better-toml",
-    "Vue.volar",
-
+    
     // Code Formatting and Linting
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "foxundermoon.shell-format",
-
+    
     // Enhancements
     "aaron-bond.better-comments",
     "christian-kohler.path-intellisense",
@@ -37,6 +37,7 @@
     "ms-vscode.references-view",
     "oderwat.indent-rainbow",
     "streetsidesoftware.code-spell-checker",
+    "Tobermory.es6-string-html",
     "usernamehw.errorlens",
     "YoavBls.pretty-ts-errors",
 
