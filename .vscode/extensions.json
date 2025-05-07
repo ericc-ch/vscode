@@ -18,6 +18,7 @@
     "ms-pyright.pyright",
     "redhat.vscode-xml",
     "redhat.vscode-yaml",
+    "runem.lit-plugin",
     "rust-lang.rust-analyzer",
     "slevesque.shader",
     "svelte.svelte-vscode",
