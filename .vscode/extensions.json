@@ -10,6 +10,7 @@
     "bmalehorn.vscode-fish",
     "bradlc.vscode-tailwindcss",
     "denoland.vscode-deno",
+    "ecmel.vscode-html-css",
     "geequlim.godot-tools",
     "golang.go",
     "mikestead.dotenv",
@@ -19,17 +20,16 @@
     "Nuxtr.nuxt-vscode-extentions",
     "redhat.vscode-xml",
     "redhat.vscode-yaml",
-    "runem.lit-plugin",
     "rust-lang.rust-analyzer",
     "slevesque.shader",
     "svelte.svelte-vscode",
     "tamasfe.even-better-toml",
-    
+
     // Code Formatting and Linting
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "foxundermoon.shell-format",
-    
+
     // Enhancements
     "aaron-bond.better-comments",
     "christian-kohler.path-intellisense",
