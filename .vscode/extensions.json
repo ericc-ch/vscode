@@ -30,21 +30,20 @@
     "esbenp.prettier-vscode",
     "foxundermoon.shell-format",
 
-    // Enhancements
+    // Other
     "aaron-bond.better-comments",
+    "antfu.unocss",
     "christian-kohler.path-intellisense",
     "Codeium.codeium",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "ericc-ch.lit-html",
     "ms-vscode.references-view",
     "oderwat.indent-rainbow",
-    "streetsidesoftware.code-spell-checker",
-    "Tobermory.es6-string-html",
-    "usernamehw.errorlens",
-    "YoavBls.pretty-ts-errors",
-
-    // Other
-    "eamodio.gitlens",
     "oven.bun-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
     "vitest.explorer",
-    "EditorConfig.EditorConfig"
+    "YoavBls.pretty-ts-errors"
   ]
 }
