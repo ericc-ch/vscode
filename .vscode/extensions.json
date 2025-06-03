@@ -1,6 +1,7 @@
 {
   "recommendations": [
     // Theme
+    "arcticicestudio.nord-visual-studio-code",
     "jdinhlife.gruvbox",
     "zhuangtongfa.material-theme",
     "catppuccin.catppuccin-vsc-pack",
@@ -41,6 +42,7 @@
     "ms-vscode.references-view",
     "oderwat.indent-rainbow",
     "oven.bun-vscode",
+    "oxc.oxc-vscode",
     "streetsidesoftware.code-spell-checker",
     "usernamehw.errorlens",
     "vitest.explorer",
