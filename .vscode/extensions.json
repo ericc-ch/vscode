@@ -33,6 +33,7 @@
 
     // Other
     "aaron-bond.better-comments",
+    "antfu.iconify",
     "antfu.unocss",
     "christian-kohler.path-intellisense",
     "Codeium.codeium",
